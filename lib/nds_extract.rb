@@ -21,6 +21,7 @@ def directors_totals(nds)
 end
 
 #:)
+#tyler taylor is my savior, omg, bless
 
 #my comments:
 #eventually you're going to += the returned total into results
