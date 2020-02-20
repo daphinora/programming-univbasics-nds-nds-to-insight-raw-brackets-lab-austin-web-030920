@@ -6,7 +6,7 @@ def directors_totals(nds)
   row_index = 0
   total_gross = 0
   
-  while row_index < nds[row_index][:movies].length do
+  while row_index < nds.length do
     counter = 0
     director_name = nds[row_index][:name]
     result[director_name] = total_gross
